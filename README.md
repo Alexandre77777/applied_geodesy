@@ -1,8 +1,8 @@
 # Прикладная геодезия I семестр
-В данном репозитории представлен перечень практических работ по предмету **"Информатика и программирование"** для студентов групп **ГФ ПГ 1-3с** и **ГФ ПГ 1-4с**.
+В данном репозитории представлен перечень практических работ по предмету **"Информатика и программирование"** для студентов групп **ГФ ПГ 1-3с** и **ГФ ПГигос-1с**.
 
-[Статистика выполнения работ **ГФ ПГ 1-3с**](https://docs.google.com/spreadsheets/d/1lvxGPGy74o5ojs4MoVAnFn7q9FS3RZXCSWoLokeEKDw/edit?gid=1625085003usp=sharing#gid=1533910966)  
-[Статистика выполнения работ **ГФ ПГ 1-4с**](https://docs.google.com/spreadsheets/d/1lvxGPGy74o5ojs4MoVAnFn7q9FS3RZXCSWoLokeEKDw/edit?gid=1625085003usp=sharing#gid=1625085003)
+[Статистика выполнения работ **ГФ ПГ 1-3с**](https://docs.google.com/spreadsheets/d/1TSLGhqJTXfokoYD4VzEIN4waW-mYTa9ZX8MhrADm97U/edit?gid=1533910966#gid=1533910966)  
+[Статистика выполнения работ **ГФ ПГигос-1с**](https://docs.google.com/spreadsheets/d/1TSLGhqJTXfokoYD4VzEIN4waW-mYTa9ZX8MhrADm97U/edit?gid=1625085003#gid=1625085003)
 
 
 
